@@ -1,0 +1,6 @@
+framework module Pods_CleverTapExample {
+  umbrella header "Pods-CleverTapExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
